@@ -1,0 +1,6 @@
+{
+  "name": "Mini Banco",
+  "description": "Un mini sistema bancario personal para gestionar cuentas, depósitos, retiros, transferencias e historial de transacciones de forma segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
